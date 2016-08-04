@@ -12,3 +12,7 @@ color:
     - '#FF8C00'
     - '#04756F'
 name: stevegw-about
+navigation:
+  - name: Home
+    url: 'http://stevegw.today'
+    type: external
