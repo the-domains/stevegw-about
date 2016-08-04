@@ -1,0 +1,14 @@
+layout_spectrum: 0.34133878396824
+typography_spectrum: 0.2838890957646072
+color:
+  brandStrength: 0.35136083816178143
+  lightness: 0.8983483898919076
+  saturation: 0.27408505394123495
+  rhythmicContrast: 0.8801426358986646
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: stevegw-about
