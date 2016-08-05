@@ -1,16 +1,16 @@
 layout_spectrum: 0.34133878396824
-typography_spectrum: 0.2838890957646072
+typography_spectrum: 0.3710622200742364
 color:
-  brandStrength: 0.35136083816178143
-  lightness: 0.8983483898919076
-  saturation: 0.27408505394123495
-  rhythmicContrast: 0.8801426358986646
+  brandStrength: 0.13876957795582712
+  lightness: 0.006687707034870982
+  saturation: 0.5389770437031984
+  rhythmicContrast: 0.6480195980984718
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#000000'
+    - '#55589F'
+    - '#FFFFFF'
+    - '#DEB600'
+    - '#AEB4F5'
 name: stevegw-about
 navigation:
   - name: Home
