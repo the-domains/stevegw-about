@@ -1,4 +1,3 @@
-layout_spectrum: 0.34133878396824
 typography_spectrum: 0.3710622200742364
 color:
   brandStrength: 0.13876957795582712
@@ -11,6 +10,10 @@ color:
     - '#FFFFFF'
     - '#DEB600'
     - '#AEB4F5'
+layout_spectrum: 0.34133878396824
+author:
+  name: Steve Grey-Wilson
+  email: stevegwusa@gmail.com
 name: stevegw-about
 navigation:
   - name: Home
