@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T15:57:16.102Z'
+datePublished: '2016-08-06T16:38:17.256Z'
 sourcePath: _posts/2016-08-04-background.md
 author: []
 via: {}
-dateModified: '2016-08-06T15:57:15.534Z'
+dateModified: '2016-08-06T16:38:16.826Z'
 title: Background
 publisher: {}
 description: >-
@@ -42,16 +42,15 @@ Pastels are also very interesting to use although not easy they are very vibrant
 
 ### Art Work printing
 
-Giclee prints of my artwork are available for ordering.
+Giclee prints of my artwork are possible
 
-Prices: for  
-print 20 x 16 from
+    <a href=http://www.fineprintimaging.com/index.html">Fine Print Fort collins</a>
 
-**$95 Hahnemuhle Bamboo**
+    <a href="mailto:stevegwusa@gmail.com">Steve GW email</a>
 
-**$110 Canvas Mounted on MounCor**
+Check their prices for 16x20 inches and 24x20 inches (Bamboo or Gallery Wrapped) 
 
-**$124 Gallery Wrapped Mounted**
+Is it in your budget and then add a percentage you think its worth and then contact me
 
 These are quality Giclees from FINEPRINT, Fort Collins
 
