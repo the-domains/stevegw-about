@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T04:04:39.008Z'
+datePublished: '2016-08-06T15:55:07.900Z'
 sourcePath: _posts/2016-08-04-background.md
 author: []
 via: {}
-dateModified: '2016-08-06T04:04:38.650Z'
+dateModified: '2016-08-06T15:55:07.452Z'
 title: Background
 publisher: {}
 description: >-
@@ -39,3 +39,22 @@ I often carry a sketch book around with me and instead of a pencil I use a water
 Pastels are also very interesting to use although not easy they are very vibrant and quick.
 
     <a href="mailto:stevegwusa@gmail.com">Steve GW email</a>
+
+### Art Work printing
+
+Giclee prints of my artwork are available for ordering.
+
+Prices: for  
+print 20 x 16 from 
+
+**$95 Hahnemuhle Bamboo**
+
+**$110 Canvas Mounted on MounCor**
+
+**$124 Gallery Wrapped Mounted **
+
+These are quality Giclees from FINEPRINT, Fort Collins
+
+Giclee printing is meant to produce a product at a   
+higher quality and longer lifespan than a standard   
+desktop inkjet printer.
