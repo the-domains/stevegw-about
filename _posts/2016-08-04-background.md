@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-05T14:41:13.900Z'
+datePublished: '2016-08-06T04:04:39.008Z'
 sourcePath: _posts/2016-08-04-background.md
 author: []
 via: {}
-dateModified: '2016-08-05T14:41:13.466Z'
+dateModified: '2016-08-06T04:04:38.650Z'
 title: Background
 publisher: {}
 description: >-
@@ -37,3 +37,5 @@ The course was presented by Mark Silvers, a local artist in Fort Collins. His ap
 I often carry a sketch book around with me and instead of a pencil I use a waterproof ink pen, which requires a different mind set than pencil, each stroke needs to be confident, there is no going back, no erasing. The use of ink develops confidence and commitment.
 
 Pastels are also very interesting to use although not easy they are very vibrant and quick.
+
+    <a href="mailto:stevegwusa@gmail.com">Steve GW email</a>
