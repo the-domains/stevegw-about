@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T15:55:07.900Z'
+datePublished: '2016-08-06T15:55:47.550Z'
 sourcePath: _posts/2016-08-04-background.md
 author: []
 via: {}
-dateModified: '2016-08-06T15:55:07.452Z'
+dateModified: '2016-08-06T15:55:46.854Z'
 title: Background
 publisher: {}
 description: >-
@@ -45,13 +45,13 @@ Pastels are also very interesting to use although not easy they are very vibrant
 Giclee prints of my artwork are available for ordering.
 
 Prices: for  
-print 20 x 16 from 
+print 20 x 16 from
 
 **$95 Hahnemuhle Bamboo**
 
 **$110 Canvas Mounted on MounCor**
 
-**$124 Gallery Wrapped Mounted **
+**$124 Gallery Wrapped Mounted**
 
 These are quality Giclees from FINEPRINT, Fort Collins
 
