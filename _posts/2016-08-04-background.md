@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T15:55:47.550Z'
+datePublished: '2016-08-06T15:57:16.102Z'
 sourcePath: _posts/2016-08-04-background.md
 author: []
 via: {}
-dateModified: '2016-08-06T15:55:46.854Z'
+dateModified: '2016-08-06T15:57:15.534Z'
 title: Background
 publisher: {}
 description: >-
