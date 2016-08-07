@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T22:55:10.612Z'
+datePublished: '2016-08-07T04:06:37.017Z'
 sourcePath: _posts/2016-08-04-background.md
 author: []
 via: {}
-dateModified: '2016-08-06T22:55:10.150Z'
+dateModified: '2016-08-07T04:06:36.475Z'
 title: Background
 publisher: {}
 description: >-
@@ -46,11 +46,15 @@ Giclee prints of my artwork are possible
 
     <a href="http://www.fineprintimaging.com/index.html">Fine Print Fort collins</a>
 
+What I'm considering is to provide free high quanlity images and if you want to print 
+
+You take the image and use it with a printer like Fine Print and if you like what you get you can send a percentage of the cost to my paypal account. 
+
+Email if interested.
+
     <a href="mailto:stevegwusa@gmail.com">Steve GW email</a>
 
-Check their prices for 16x20 inches and 24x20 inches (Bamboo or Gallery Wrapped)
-
-Is it in your budget and then add a percentage you think its worth and then contact me
+And also check their prices for 16x20 inches and 24x20 inches (Bamboo or Gallery Wrapped)
 
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"> <input type="hidden" name="cmd" value="_s-xclick"> <input type="hidden" name="hosted_button_id" value="LH4L42ESSHNPJ"> <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"> <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"> </form> 
 
