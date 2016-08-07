@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-07T04:19:23.027Z'
+datePublished: '2016-08-07T04:24:02.228Z'
 sourcePath: _posts/2016-08-04-background.md
 author: []
 via: {}
-dateModified: '2016-08-07T04:19:21.768Z'
+dateModified: '2016-08-07T04:24:01.630Z'
 title: Background
 publisher: {}
 description: >-
@@ -42,19 +42,23 @@ Pastels are also very interesting to use although not easy they are very vibrant
 
 ### Art Work printing
 
-Are Giclee prints of my artwork are possible?
+Question: Are Giclee prints of my artwork are possible?
 
-What I'm considering is to provide free high quality images that you can print.
+What I'm considering is to provide free high quality images that you can use to print.
 
-You take the image and use it with a printer like Fine Print and if you like what you get you can send a percentage of the cost to my paypal account.
+You take the image and use it with a professional printer like and if you like what you get you can send a percentage of the cost to my paypal account.
+
+I have used "Fine Print" before and had good results
 
     <a href="http://www.fineprintimaging.com/index.html">Fine Print Fort collins</a>
 
-If interested email me 
-    
+If this interests you email me
+
     <a href="mailto:stevegwusa@gmail.com">Steve GW email</a>
 
-I would check the prices for 16x20 inches and 24x20 inches (Bamboo or Gallery Wrapped). There are cheepr option but my images are roughly this size and Bamboo is good for Frame mounting where as Galley wrapped you have without a frame.
+I would also check the prices for 16x20 inches and 24x20 inches (Bamboo or Gallery Wrapped). 
+
+There are cheeper options but my images are roughly this size and Bamboo is good for Frame mounting and Galley wrapped are good without a frame.
 
 Below is a paypal link
 
