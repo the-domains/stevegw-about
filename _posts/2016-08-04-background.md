@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-07T04:06:37.017Z'
+datePublished: '2016-08-07T04:19:23.027Z'
 sourcePath: _posts/2016-08-04-background.md
 author: []
 via: {}
-dateModified: '2016-08-07T04:06:36.475Z'
+dateModified: '2016-08-07T04:19:21.768Z'
 title: Background
 publisher: {}
 description: >-
@@ -42,23 +42,25 @@ Pastels are also very interesting to use although not easy they are very vibrant
 
 ### Art Work printing
 
-Giclee prints of my artwork are possible
+Are Giclee prints of my artwork are possible?
+
+What I'm considering is to provide free high quality images that you can print.
+
+You take the image and use it with a printer like Fine Print and if you like what you get you can send a percentage of the cost to my paypal account.
 
     <a href="http://www.fineprintimaging.com/index.html">Fine Print Fort collins</a>
 
-What I'm considering is to provide free high quanlity images and if you want to print 
-
-You take the image and use it with a printer like Fine Print and if you like what you get you can send a percentage of the cost to my paypal account. 
-
-Email if interested.
-
+If interested email me 
+    
     <a href="mailto:stevegwusa@gmail.com">Steve GW email</a>
 
-And also check their prices for 16x20 inches and 24x20 inches (Bamboo or Gallery Wrapped)
+I would check the prices for 16x20 inches and 24x20 inches (Bamboo or Gallery Wrapped). There are cheepr option but my images are roughly this size and Bamboo is good for Frame mounting where as Galley wrapped you have without a frame.
+
+Below is a paypal link
 
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"> <input type="hidden" name="cmd" value="_s-xclick"> <input type="hidden" name="hosted_button_id" value="LH4L42ESSHNPJ"> <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"> <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"> </form> 
 
-These are quality Giclees from FINEPRINT, Fort Collins
+As a background
 
 Giclee printing is meant to produce a product at a   
 higher quality and longer lifespan than a standard   
