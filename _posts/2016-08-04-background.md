@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-07T04:24:02.228Z'
-sourcePath: _posts/2016-08-04-background.md
-author: []
-via: {}
-dateModified: '2016-08-07T04:24:01.630Z'
 title: Background
+datePublished: '2016-08-21T22:44:24.152Z'
+dateModified: '2016-08-21T22:44:23.732Z'
 publisher: {}
+author: []
 description: >-
   After many years of doing very little drawing I was encouraged by my lovely
   wife to take a sketching course.  The course was presented by Mark Silvers, a
@@ -21,7 +19,9 @@ description: >-
   waterproof ink pen, which requires a different mind set than pencil, each
   stroke needs to be confident, there is no going back, no erasing. The use of
   ink develops confidence and commitment.
+via: {}
 starred: false
+sourcePath: _posts/2016-08-04-background.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -46,7 +46,7 @@ Question: Are Giclee prints of my artwork are possible?
 
 What I'm considering is to provide free high quality images that you can use to print.
 
-You take the image and use it with a professional printer like and if you like what you get you can send a percentage of the cost to my paypal account.
+You take the image and use it with a professional printer and if you like what you get you can send a percentage of the cost to my paypal account.
 
 I have used "Fine Print" before and had good results
 
@@ -56,7 +56,7 @@ If this interests you email me
 
     <a href="mailto:stevegwusa@gmail.com">Steve GW email</a>
 
-I would also check the prices for 16x20 inches and 24x20 inches (Bamboo or Gallery Wrapped). 
+I would also check the prices for 16x20 inches and 24x20 inches (Bamboo or Gallery Wrapped).)
 
 There are cheeper options but my images are roughly this size and Bamboo is good for Frame mounting and Galley wrapped are good without a frame.
 
