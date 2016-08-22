@@ -1,9 +1,11 @@
 ---
-title: Background
-datePublished: '2016-08-21T22:44:24.152Z'
-dateModified: '2016-08-21T22:44:23.732Z'
-publisher: {}
+datePublished: '2016-08-22T13:25:17.781Z'
+sourcePath: _posts/2016-08-04-background.md
 author: []
+via: {}
+dateModified: '2016-08-22T13:25:17.346Z'
+title: Background
+publisher: {}
 description: >-
   After many years of doing very little drawing I was encouraged by my lovely
   wife to take a sketching course.  The course was presented by Mark Silvers, a
@@ -19,9 +21,7 @@ description: >-
   waterproof ink pen, which requires a different mind set than pencil, each
   stroke needs to be confident, there is no going back, no erasing. The use of
   ink develops confidence and commitment.
-via: {}
 starred: false
-sourcePath: _posts/2016-08-04-background.md
 inFeed: true
 hasPage: false
 inNav: false
