@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-22T13:25:17.781Z'
+datePublished: '2016-08-22T13:54:42.385Z'
 sourcePath: _posts/2016-08-04-background.md
 author: []
 via: {}
-dateModified: '2016-08-22T13:25:17.346Z'
+dateModified: '2016-08-22T13:54:42.001Z'
 title: Background
 publisher: {}
 description: >-
@@ -50,19 +50,11 @@ You take the image and use it with a professional printer and if you like what y
 
 I have used "Fine Print" before and had good results
 
-    <a href="http://www.fineprintimaging.com/index.html">Fine Print Fort collins</a>
-
-If this interests you email me
-
-    <a href="mailto:stevegwusa@gmail.com">Steve GW email</a>
+If this interests you email at stevegwusa@gmail.com
 
 I would also check the prices for 16x20 inches and 24x20 inches (Bamboo or Gallery Wrapped).)
 
 There are cheeper options but my images are roughly this size and Bamboo is good for Frame mounting and Galley wrapped are good without a frame.
-
-Below is a paypal link
-
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"> <input type="hidden" name="cmd" value="_s-xclick"> <input type="hidden" name="hosted_button_id" value="LH4L42ESSHNPJ"> <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"> <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"> </form> 
 
 As a background
 
